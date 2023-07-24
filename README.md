@@ -5,11 +5,13 @@ In this video I show you how to export an entire SQL Server database and all dat
 
 <a href=https://youtu.be/dOA_8EJ_xWA target=_blank>How To Export SQL Server Data To Excel Using C#</a>
 
-
-
 <img src=https://github.com/DataJuggler/SharedRepo/blob/master/Shared/Images/SQLSnapshot.png width=540 height=360>
 
 DataJuggler.SQLSnapshot Repository
 https://github.com/DataJuggler/SQLSnapshot
 
 Let me know if anyone would like a release (install) version of this project.
+
+# News
+7.24.2023: DataJuggler.SQLSnapshot has been updated because of updates to NuGet package
+DataJuggler.Excelerate
