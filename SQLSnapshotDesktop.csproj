@@ -9,7 +9,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="DataJuggler.SQLSnapshot" Version="1.1.1" />
+    <PackageReference Include="DataJuggler.SQLSnapshot" Version="1.1.2" />
     <PackageReference Include="DataJuggler.Win.Controls" Version="7.1.6" />
     <PackageReference Include="Microsoft.Data.SqlClient" Version="5.1.1" />
   </ItemGroup>
