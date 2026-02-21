@@ -3,8 +3,6 @@
 #region using statements
 
 using DataJuggler.SQLSnapshot;
-using DataJuggler.NET8;
-using DataJuggler.NET8.Delegates;
 
 #endregion
 
